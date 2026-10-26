@@ -1,0 +1,10 @@
+# Secrets and local n8n data - never commit these
+.env
+*.key
+.n8n/
+database.sqlite
+
+# OS / editor files
+.DS_Store
+Thumbs.db
+.vscode/
